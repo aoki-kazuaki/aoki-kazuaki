@@ -4,7 +4,7 @@ hello!!!!
 スキルセット
 - メイン：TypeScript / React
 - サブ: Vue
-- キャッチアップ中: NextJs, python
+- キャッチアップ中: Next js, Java 
 - UI：Tailwind CSS / MUI / styled-components
 - 状態管理：Redux / Jotai / Pinia 
 - バックエンド経験：FastAPI 
